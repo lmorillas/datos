@@ -1,0 +1,14 @@
+{
+     "types": {
+        "Item": {
+            "pluralLabel": "centros",
+            "label": "centro"
+        }
+    },
+
+ "properties": {
+        "diferencia": {
+            "valueType": "number"}
+
+    }
+}
